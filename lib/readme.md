@@ -78,4 +78,9 @@ https://hal.univ-lorraine.fr/hal-01880646/document
 https://aibolem.github.io/mpds-ml-labs/lib/Crystallographic_shelves_space-group_hierarchy_explained.pdf
 
 
-https://aibolem.github.io/mpds-ml-labs/lib/
+https://aibolem.github.io/mpds-ml-labs/lib/magneticompound_Magnetic structure and magneto-volume anomalies in Er2Fe17.pdf
+
+
+https://aibolem.github.io/mpds-ml-labs/lib/magneticompound_Magnetic_structure_and_magneto-volume anomalies_in_Er2Fe17.pdf
+
+
