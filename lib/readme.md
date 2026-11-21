@@ -57,7 +57,18 @@ https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=617645&DatabaseToSearch=ICSD
 
 https://next-gen.materialsproject.org/materials/mp-1724
 
+
+# Space groups in crystallography like 
+
+https://www.youtube.com/watch?v=ob01Jn0rOoo
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48075606-82b7-4eea-8caa-d5baf81bd03a" />
+
 https://hal.univ-lorraine.fr/hal-01880646/document
 
 
 
+<img width="357" height="472" alt="image" src="https://github.com/user-attachments/assets/badbdf3f-c3bf-4d02-ac89-b058611d715e" />
+
+
+<img width="358" height="476" alt="image" src="https://github.com/user-attachments/assets/ec0c0d46-6113-49a0-9ec6-f6eb0b6b1509" />
