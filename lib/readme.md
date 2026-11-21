@@ -28,5 +28,16 @@ Er₂Fe₁₇ crystallizes in the hexagonal P6₃/mmc space group. There are two
 
 exported materials details
 
+https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=617645&DatabaseToSearch=ICSD
 
+Matching Entries from the Inorganic Crystalline Structure Database (ICSD)
+
+<img width="761" height="293" alt="image" src="https://github.com/user-attachments/assets/bb2d61fb-1904-498b-bb5a-b73643fb1285" />
+
+https://pubs.aip.org/aip/jap/article-abstract/70/4/2272/496201/Intrinsic-magnetic-properties-of-R2Fe17CyNx?redirectedFrom=fulltext
+
+<img width="940" height="540" alt="image" src="https://github.com/user-attachments/assets/f1357aa9-dd6c-4751-abfa-0fbe9b9cbe15" />
+
+Magnetic structure and magneto-volume anomalies in Er2Fe17
+compound
 
