@@ -72,3 +72,10 @@ https://hal.univ-lorraine.fr/hal-01880646/document
 
 
 <img width="358" height="476" alt="image" src="https://github.com/user-attachments/assets/ec0c0d46-6113-49a0-9ec6-f6eb0b6b1509" />
+
+
+
+https://aibolem.github.io/mpds-ml-labs/lib/Crystallographic_shelves_space-group_hierarchy_explained.pdf
+
+
+https://aibolem.github.io/mpds-ml-labs/lib/
