@@ -36,8 +36,23 @@ Matching Entries from the Inorganic Crystalline Structure Database (ICSD)
 
 https://pubs.aip.org/aip/jap/article-abstract/70/4/2272/496201/Intrinsic-magnetic-properties-of-R2Fe17CyNx?redirectedFrom=fulltext
 
+https://www.altmetric.com/details/41935886
+
+https://pubs.aip.org/aip/jap/article-abstract/70/4/2272/496201/Intrinsic-magnetic-properties-of-R2Fe17CyNx?redirectedFrom=fulltext
+
 <img width="940" height="540" alt="image" src="https://github.com/user-attachments/assets/f1357aa9-dd6c-4751-abfa-0fbe9b9cbe15" />
 
 Magnetic structure and magneto-volume anomalies in Er2Fe17
 compound
+
+
+https://www.altmetric.com/details/41935886
+
+https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=617645&DatabaseToSearch=ICSD
+
+https://next-gen.materialsproject.org/materials/mp-1724
+
+https://hal.univ-lorraine.fr/hal-01880646/document
+
+
 
