@@ -1,5 +1,10 @@
 library, .pdf mm
 
+[<img width="500" height="190" alt="image" src="https://github.com/user-attachments/assets/04c67dde-1c97-4732-bcfc-c4a73b5679bb" />
+](https://en.wikipedia.org/wiki/Space_group)
+
+https://en.wikipedia.org/wiki/Space_group
+
 # Crystallographic shelves: space-group hierarchy explained
 
 Er₂Fe₁₇
